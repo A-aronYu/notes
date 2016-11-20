@@ -52,8 +52,11 @@ a few notes
 
 
 
-References：
-Harari, Y. N.  A brief history of humankind [M].  2014
-Durant, W. & A. Durant.  The lessons of history [M].  2015
-Bloom, P.  Just Babies: The Origins of Good and Evil [M].  2015
 
+References：
+
+Harari, Y. N.  A brief history of humankind [M].  2014
+
+Durant, W. & A. Durant.  The lessons of history [M].  2015
+
+Bloom, P.  Just Babies: The Origins of Good and Evil [M].  2015
