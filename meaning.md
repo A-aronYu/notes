@@ -84,7 +84,8 @@
 
 ![Pale Blue Dot](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
 
-*Seen from about 6 billion kilometers, Earth appears as a tiny dot (the blueish-white speck approximately halfway down the brown band to the right) within the darkness of deep space.*
+*(Seen from about 6 billion kilometers, Earth appears as a tiny dot (the blueish-white speck approximately halfway down the brown band to the right) within the darkness of deep space.)*
+
 
 从这样远的地方来看，**地球只是一个模糊的光点，就像在地球表面用肉眼看到的光点一样**。由于太阳光在空间飞船上面反射，地球好像位于一束光线中，对这个小小的世界，这似乎有某种特殊的含义。 
 
