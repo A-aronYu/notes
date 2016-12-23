@@ -84,9 +84,11 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/View_of_the_Sun%2C_Earth_and_Venus_from_Voyager_1.png/1280px-View_of_the_Sun%2C_Earth_and_Venus_from_Voyager_1.png)
 
-![Pale Blue Dot](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
+*(This color image of the sun, Earth and Venus was taken by the Voyager 1 spacecraft Feb. 14, 1990, when it was approximately 32 degrees above the plane of the ecliptic and at a slant-range distance of approximately 4 billion miles. It is the first -- and may be the only -- time that we will ever see our solar system from such a vantage point.The wide-angle photograph of the sun and inner planets (not visible), with Pale Blue Dot superimposed on the left, Venus to its right.)*
 
-*(Seen from about 6 billion kilometers, Earth appears as a tiny dot (the blueish-white speck approximately halfway down the brown band to the right) within the darkness of deep space.)*
+![Pale Blue Dot](https://upload.wikimedia.org/wikipedia/commons/7/71/PaleBlueDot.jpg)
+
+*(Seen from about 6 billion kilometers,Earth was a crescent only 0.12 pixel in size.)*
 
 
 从这样远的地方来看，**地球只是一个模糊的光点，就像在地球表面用肉眼看到的光点一样**。由于太阳光在空间飞船上面反射，地球好像位于一束光线中，对这个小小的世界，这似乎有某种特殊的含义。 
