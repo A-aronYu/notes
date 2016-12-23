@@ -82,11 +82,9 @@
 
 仅仅在几十年前我们才清楚地认识到自己在宇宙中的地位。在冷战时期太空竞赛的道路上，我们回望家园，却发现了另一个世界。在旅行者1号飞船飞过海王星时，科学家将其镜头转回地球，让它最后看一眼家园，拍摄了这张被称之为“Pale Blue Dot”的照片。
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/64/View_of_the_Sun%2C_Earth_and_Venus_from_Voyager_1.png)
+![Pale Blue Dot](https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png)
 
-*The wide-angle photograph of the sun and inner planets (not visible), with Pale Blue Dot superimposed on the left, Venus to its right*
-
-![](https://upload.wikimedia.org/wikipedia/commons/7/71/PaleBlueDot.jpg)
+*Seen from about 6 billion kilometers, Earth appears as a tiny dot (the blueish-white speck approximately halfway down the brown band to the right) within the darkness of deep space.*
 
 从这样远的地方来看，**地球只是一个模糊的光点，就像在地球表面用肉眼看到的光点一样**。由于太阳光在空间飞船上面反射，地球好像位于一束光线中，对这个小小的世界，这似乎有某种特殊的含义。 
 
