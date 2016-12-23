@@ -4,6 +4,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg)
 
+*(Taken by Apollo 8 crewmember Bill Anders on December 24, 1968, at mission time 075:49:07 , while in orbit around the Moon, showing the Earth rising for the third time above the lunar horizon.)*
+
 ## 你我皆星尘
 
 人类身体大约93%的质量仅由三种元素构成：氧、碳、氢。氧和氢主要以水的形式存在，它组成了体重的70%。碳或许是生命最重要的元素，它能很容易与其他原子结合，这允许它形成又长又复杂的分子链，进而形成了你身体坚实的那一部分。剩余7%就是元素周期表的一次旅行了。这些元素起着各种各样的作用：例如运输氧，塑造骨骼和细胞结构，传递信号，驱使化学反应，等等。
