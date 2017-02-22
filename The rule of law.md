@@ -89,4 +89,4 @@
 从宏观上来讲，法治是一种治国方略。法治主要依靠完备的法律治理国家，任何人、任何国家机构不得凌驾于法律之上。健全的法律制度有利于维护公民的人身和财产安全，有利于公平正义原则的实现，有利于维护公民的合法权益，有利于国家的长治久安。**但我们必须记住，这一现象仅是人类历史上的偶然。**
 
 
-![Heropedia](https://github.com/GUANGWEIYU/essay/raw/master/images/IMG_1090.JPG)
+![Heropedia](https://github.com/GUANGWEIYU/essay/raw/master/images/IMG_2084.GIF)
